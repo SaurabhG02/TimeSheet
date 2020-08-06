@@ -10,7 +10,7 @@ you can find the Steps for installing virtual environment and startig the projec
 C) Images of the timesheet form:
  1. Form without error messages and validation
 ![](Images/1.png)
- 2. 1. Form with error messages and validation
+ 2. Form with error messages and validation
 ![](Images/2.png)
 
  
